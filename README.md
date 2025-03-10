@@ -50,7 +50,7 @@ Este comando ejecuta todas las migraciones pendientes en la base de datos, crean
 
 ¡Con todo esto en su lugar, ya estamos listos para comenzar a realizar pruebas con la API!
 
-Solo faltar ejecutar:
+Solo faltara ejecutar:
 
 ```bash
 php artisan serve
